@@ -1,6 +1,6 @@
 .idea
 *.key
-*.pdf
+# *.pdf
 .nsml*
 *.pt
 X*
